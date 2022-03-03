@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "lorem ipsum feddback comming from the back end 22"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "lorem ipsum feddback comming from the back end 11"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "lorem ipsum feddback comming from the back end 54"
+    },
+    {
+      "text": "Wow that nicee nigeerrrAAAAAA",
+      "rating": 10,
+      "id": 4
+    }
+  ]
+}
