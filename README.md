@@ -1,3 +1,9 @@
+# UMMM
+Hasilnya bakalan cuman loading git Astolfo karna json servernya ga nyala
+
+- https://nervous-boyd-4a267b.netlify.app/
+
+
 This project goes over all of the fundamentals of React including...
 
 - Components
